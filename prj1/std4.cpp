@@ -9,5 +9,7 @@ int main(void)
 
     cout << "xの値を入力-->";
     cin >> x;
+    cout << "yの値を入力-->";
+    cin >> y;
     
 }
