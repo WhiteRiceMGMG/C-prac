@@ -11,5 +11,9 @@ int main(void)
     cin >> x;
     cout << "yの値を入力-->";
     cin >> y;
-    
+
+    cout << "あなたが入力したのは" << x << "と" << y << "です．" << endl;
+    cout << "合計は" << x + y << "です" << endl;
+
+    return 0;
 }
