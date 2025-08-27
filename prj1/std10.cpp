@@ -9,5 +9,6 @@ int main(void)
     cout << "a == 20の値は" << (a == 20) << "です" << endl;
     cout << "a != 10の値は" << (a != 10) << "です" << endl;
     cout << "a != 20の値は" << (a != 20) << "です" << endl;
-    
+
+    return 0;
 }
