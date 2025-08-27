@@ -11,5 +11,13 @@ int main(void)
     a2 = 5;
     a2 += 5;
     cout << "a2 = " << a2 << endl;
-    
+
+    a3 = 5;
+    a3 = a3++ + 2;
+    cout << "a3 = " << a3 << endl;
+
+    a4 = 5;
+    cout << "a4 = " << a4++ + 2 << endl;
+
+    return 0;
 }
