@@ -8,4 +8,7 @@ int main(void)
     b = 4;
 
     cout << "a / b = " << a / b << endl;
+    cout << "(double) a / b = " << (double) a / b << endl;
+
+    return 0;
 }
