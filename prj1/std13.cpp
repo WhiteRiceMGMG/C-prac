@@ -13,3 +13,6 @@ int main(void)
 
     return 0;
 }
+
+//ボタン  16  19 21 14
+//LED    17  18 20 15 
