@@ -33,6 +33,43 @@ int main(void)
                 break;
             }
         }
-        
+        switch(c)
+        {
+            case 'A':
+            case 'a':
+                cout << endl;
+                cout << "ゲームばかりしないでください．" << endl;
+                cout << endl;
+                break;
+            case 'B':
+            case 'b':
+                cout << endl;
+                cout << "音楽が選択されました" << endl;
+                cout << endl;
+                break;
+            case 'C':
+            case 'c':
+                cout << endl;
+                cout << "表計算が選択されました" << endl;
+                cout << endl;
+                break;
+            case 'X':
+            case 'x':
+                end = 1;
+                break;
+            default:
+                cout << endl;
+                cout << "不正な入力です．" << endl;
+                cout << endl;
+                break;
+        }
+        if(end)
+        {
+            break;
+        }
     }
+    cout << endl;
+    cout << "終了です．" << endl;
+
+    return 0;
 }
