@@ -22,5 +22,6 @@ int main(void)
     }
 
     cout  << "お楽しみください．" << endl;
-    
+
+    return 0;
 }
