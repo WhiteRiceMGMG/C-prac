@@ -16,4 +16,11 @@ int main(void)
         cout << "入場料は無料です．" << endl;
     }
     
+    if(age >= 6)
+    {
+        cout << "入場料は千円です．" << endl;
+    }
+
+    cout  << "お楽しみください．" << endl;
+    
 }
