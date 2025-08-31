@@ -22,7 +22,7 @@ int main(void)
         cout << "B Music" << endl;
         cout << "C table" << endl;
         cout << "X end" << endl;
-        cout << "------------" < endl;
+        cout << "------------" << endl;
 
         while(1)
         {
