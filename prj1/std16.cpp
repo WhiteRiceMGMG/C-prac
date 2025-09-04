@@ -80,3 +80,4 @@ int main(void)
 //ボタン四個
 //711siharai
 ボタンの遷移
+HEWメモしたやつ探す
