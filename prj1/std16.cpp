@@ -82,4 +82,4 @@ int main(void)
 //ボタンの遷移
 //HEWメモしたやつ探す
 //あいうえお
-//ああああああああ
+//ああああああああgit pull origin main --no-rebase
