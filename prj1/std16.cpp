@@ -83,4 +83,4 @@ int main(void)
 //HEWメモしたやつ探す
 //あいうえお
 //ああああああああgit pull origin main --no-rebase
-//モードとか追加する．あとイベントフラグ
+//モードとか追加する．あとイベントフラグaaa
